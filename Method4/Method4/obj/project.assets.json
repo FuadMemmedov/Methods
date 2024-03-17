@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memme\\source\\repos\\Method4\\Method4\\Method4.csproj",
+      "projectUniqueName": "C:\\Users\\memme\\OneDrive\\Desktop\\Methods\\Method4\\Method4\\Method4.csproj",
       "projectName": "Method4",
-      "projectPath": "C:\\Users\\memme\\source\\repos\\Method4\\Method4\\Method4.csproj",
+      "projectPath": "C:\\Users\\memme\\OneDrive\\Desktop\\Methods\\Method4\\Method4\\Method4.csproj",
       "packagesPath": "C:\\Users\\memme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memme\\source\\repos\\Method4\\Method4\\obj\\",
+      "outputPath": "C:\\Users\\memme\\OneDrive\\Desktop\\Methods\\Method4\\Method4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\memme\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,14 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Uzunluq daxil edin:");
-            int length = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Eni daxil edin:");
-            int width = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Hundurluk daxil edin:");
-            int height = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Radius daxil edin:");
-            int radius = Convert.ToInt32(Console.ReadLine());
+
+            int length = 2;
+            int width =  3;
+            int height = 4; 
+            int radius = 5;
             
             Area(radius);
             Area(length, width );
