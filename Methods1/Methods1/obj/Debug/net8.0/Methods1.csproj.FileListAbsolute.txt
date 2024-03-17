@@ -1,0 +1,14 @@
+C:\Users\memme\source\repos\Methods1\Methods1\bin\Debug\net8.0\Methods1.exe
+C:\Users\memme\source\repos\Methods1\Methods1\bin\Debug\net8.0\Methods1.deps.json
+C:\Users\memme\source\repos\Methods1\Methods1\bin\Debug\net8.0\Methods1.runtimeconfig.json
+C:\Users\memme\source\repos\Methods1\Methods1\bin\Debug\net8.0\Methods1.dll
+C:\Users\memme\source\repos\Methods1\Methods1\bin\Debug\net8.0\Methods1.pdb
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.AssemblyInfo.cs
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.dll
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\refint\Methods1.dll
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.pdb
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\Methods1.genruntimeconfig.cache
+C:\Users\memme\source\repos\Methods1\Methods1\obj\Debug\net8.0\ref\Methods1.dll
