@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\Method3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C0EB34-E4EE-43C4-ADDE-30C4B176FB80}|Method3\\Method3.csproj|c:\\users\\memme\\source\\repos\\method3\\method3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C0EB34-E4EE-43C4-ADDE-30C4B176FB80}|Method3\\Method3.csproj|solutionrelative:method3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Method3\\Method3\\Program.cs",
+              "RelativeDocumentMoniker": "Method3\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Method3\\Method3\\Program.cs",
+              "RelativeToolTip": "Method3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:05:13.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

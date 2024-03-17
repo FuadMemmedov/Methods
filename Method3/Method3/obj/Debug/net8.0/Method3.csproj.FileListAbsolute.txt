@@ -1,0 +1,14 @@
+C:\Users\memme\source\repos\Method3\Method3\bin\Debug\net8.0\Method3.exe
+C:\Users\memme\source\repos\Method3\Method3\bin\Debug\net8.0\Method3.deps.json
+C:\Users\memme\source\repos\Method3\Method3\bin\Debug\net8.0\Method3.runtimeconfig.json
+C:\Users\memme\source\repos\Method3\Method3\bin\Debug\net8.0\Method3.dll
+C:\Users\memme\source\repos\Method3\Method3\bin\Debug\net8.0\Method3.pdb
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.AssemblyInfo.cs
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.dll
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\refint\Method3.dll
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.pdb
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\Method3.genruntimeconfig.cache
+C:\Users\memme\source\repos\Method3\Method3\obj\Debug\net8.0\ref\Method3.dll
